@@ -1,7 +1,1 @@
-# Studies
- Application and language studies.
-
-###############################################
-Develop: Felipe Banqueri
-Ribeirão Preto / SP
-###############################################
+Aplicação e estudos de linguagem Python.
